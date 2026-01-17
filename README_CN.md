@@ -1,0 +1,47 @@
+# 基于国产深度框架 Jittor 计图的训练与部署解决方案
+
+> TODO: Banner
+
+<div style="display: flex; flex-direction: column; row-gap: 4px">
+    <div style="display: flex; justify-content: center; align-items: center; column-gap: 8px;">
+        <img src="https://img.shields.io/badge/python-3.8.20-blue.svg" alt="Python 3.8.20" />
+        <img src="https://img.shields.io/badge/jittor-1.3.10.0-orange.svg" alt="Jittor 1.3.10.0" />
+        <!-- <a href="https://github.com/zhongqihebut/Affective_Computing/blob/master/LICENSE"><img src="https://img.shields.io/github/license/zhongqihebut/Affective_Computing"></a> -->
+        <a href="https://github.com/zhongqihebut/Affective_Computing/pulls" style="line-height: 1"><img src="https://img.shields.io/badge/PR-Welcom-10b981.svg" /></a>
+    </div>
+    <div style="display: flex; justify-content: center; align-items: center; column-gap: 8px;">
+        <a href="./docs/en/papers.md">相关论文</a>
+        <div style="width: 1px; height: 16px; background-color: #e5e5e5;"></div>
+        <a href="./docs/en">English Documentation</a>
+        <div style="width: 1px; height: 16px; background-color: #e5e5e5;"></div>
+        <a href="./docs/cn">中文文档</a>
+    </div>
+</div>
+
+
+
+
+## 📖 目录
+- [📝 简介](#-简介)
+- [🎉 新闻](#-新闻)
+- [🛠️ 安装](#️-安装)
+- [✨ 使用](#-使用)
+- [🏛 License](#-license)
+- [📎 引用](#-引用)
+
+## 📝 简介 (@YS)
+
+## 🎉 新闻 (@YS)
+
+## 🛠️ 安装 (@SCC)
+
+> 1. via pip install -r requirements.txt
+> 2. via conda env create --file="env-jt.yml"
+
+## ✨ 使用 (@GWT)
+
+
+
+## 🏛 License (@SCC)
+
+## 📎 引用 (@SCC)

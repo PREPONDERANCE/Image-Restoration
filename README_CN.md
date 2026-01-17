@@ -2,25 +2,23 @@
 
 <p align="center">
     <br>
-    <img src="assets/banner.png"/>
+    <img src="assets/banner.jpeg"/>
     <br>
 <p>
 
-<div style="display: flex; flex-direction: column; row-gap: 4px">
-    <div style="display: flex; justify-content: center; align-items: center; column-gap: 8px;">
-        <img src="https://img.shields.io/badge/python-3.8.20-blue.svg" alt="Python 3.8.20" />
-        <img src="https://img.shields.io/badge/jittor-1.3.10.0-orange.svg" alt="Jittor 1.3.10.0" />
-        <!-- <a href="https://github.com/zhongqihebut/Affective_Computing/blob/master/LICENSE"><img src="https://img.shields.io/github/license/zhongqihebut/Affective_Computing"></a> -->
-        <a href="https://github.com/zhongqihebut/Affective_Computing/pulls" style="line-height: 1"><img src="https://img.shields.io/badge/PR-Welcom-10b981.svg" /></a>
-    </div>
-    <div style="display: flex; justify-content: center; align-items: center; column-gap: 8px;">
-        <a href="./docs/en/papers.md">相关论文</a>
-        <div style="width: 1px; height: 16px; background-color: #e5e5e5;"></div>
-        <a href="./docs/en">English Documentation</a>
-        <div style="width: 1px; height: 16px; background-color: #e5e5e5;"></div>
-        <a href="./docs/cn">中文文档</a>
-    </div>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3.8.20-blue.svg" alt="Python 3.8.20" />
+  <img src="https://img.shields.io/badge/jittor-1.3.10.0-orange.svg" alt="Jittor 1.3.10.0" />
+  <a href="https://github.com/zhongqihebut/Affective_Computing/pulls">
+    <img src="https://img.shields.io/badge/PR-Welcome-10b981.svg" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="./docs/en/papers.md">相关论文</a> |
+  <a href="./docs/en">English Documentation</a> |
+  <a href="./docs/cn">中文文档</a>
+</p>
 
 ## 📖 目录
 

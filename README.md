@@ -54,6 +54,8 @@ With the support of the Jittor deep learning framework, this project currently s
 ### Pip Installation
 
 ```bash
+conda create -n ir python=3.8
+conda activate ir
 pip install -r requirements.txt
 ```
 

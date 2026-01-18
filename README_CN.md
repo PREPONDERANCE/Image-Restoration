@@ -54,6 +54,8 @@ Jittor国产深度学习框架能够无缝兼容主流的PyTorch框架。以[AST
 #### Pip 安装
 
 ```bash
+conda create -n ir python=3.8
+conda activate ir
 pip install -r requirements.txt
 ```
 

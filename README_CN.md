@@ -9,8 +9,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8.20-blue.svg" alt="Python 3.8.20" />
   <img src="https://img.shields.io/badge/Jittor-1.3.10.0-orange.svg" alt="Jittor 1.3.10.0" />
-  <a href="https://github.com/zhongqihebut/Affective_Computing/pulls">
+  <a href="https://github.com/PREPONDERANCE/Image-Restoration/pulls">
     <img src="https://img.shields.io/badge/PR-Welcome-10b981.svg" />
+  </a>
+  <a href="https://github.com/PREPONDERANCE/Image-Restoration/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-Apache_2.0-e11d48.svg" />
   </a>
   <a href="README.md"><img src="https://img.shields.io/badge/README-EN-red.svg" /></a>
   <a href="README_CN.md"><img src="https://img.shields.io/badge/README-CN-yellow.svg" /></a>
